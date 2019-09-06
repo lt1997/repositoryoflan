@@ -8,7 +8,7 @@ public class rabbit {
 		 r1.start();
 		 r3.start();
 		 System.out.println("第一次更改");
-		 
+		 System.out.println("第二次更改");
 	}
 
 	public int amount(int month){
